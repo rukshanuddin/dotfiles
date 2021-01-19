@@ -55,7 +55,7 @@ brew 'zsh'
 brew 'mongodb/brew/mongodb-community'
 brew 'mysql'
 brew 'sqllite'
-brew 'postgress'
+brew 'postgres'
 
 # Apps
 cask 'alfred'
